@@ -1,5 +1,4 @@
 # DataHackers
 
-@author Alef Richard <br />
+@author Alef Richard ---
 @service Projeto Bootcamp
-
